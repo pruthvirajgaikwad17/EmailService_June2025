@@ -1,4 +1,4 @@
-package com.example.userauthservice_june2025.dtos;
+package com.example.emailservicejune2025application.dtos;
 
 import lombok.Getter;
 import lombok.Setter;
